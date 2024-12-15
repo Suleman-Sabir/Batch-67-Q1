@@ -10,3 +10,6 @@
 # It is commonly used to show messages, display variable values, and debug programs.
 
 print("Hello, World! This is my first python program")
+print('Kamran')
+print('Khan')
+print('Hassan')
