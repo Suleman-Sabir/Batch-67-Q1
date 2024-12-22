@@ -9,8 +9,6 @@ In this extended version of the assignment, you will tackle **six** different re
 - Basic arithmetic  
 - Logical thinking and problem-solving  
 
-All scenarios are **mandatory**, so please complete them in order and submit your code as specified in the **Submission Guidelines**.
-
 ---
 
 ## **Scenario 1: Event Registration Desk**
