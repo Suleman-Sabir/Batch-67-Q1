@@ -121,8 +121,8 @@ If you’d like to push your understanding further, try these extra questions:
    - After the user enters 5 numbers, also print:
      - The **minimum** and **maximum** values in the list.
      - The **product** of all the numbers (e.g., `num1 * num2 * ... * num5`).
-
-5. **Reflection Questions**
+---
+**Reflection Questions**
    - **RQ1**: Why do we need to convert user input (strings) to integers before doing numeric operations?
    - **RQ2**: Could there be any issues if the user enters a non-numeric value where a number is expected? How might you handle that?
    - **RQ3**: Why might slicing and indexing be helpful when working with strings or lists?
